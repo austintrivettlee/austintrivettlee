@@ -1,5 +1,5 @@
 ## 🎓 What I am doing:
-Currently Studing at Coding Dojo bootcamp, where I am honing my skills across multiple tech stacks and developed a deep passion for software engineering.
+Currently Studying at Coding Dojo bootcamp, where I am honing my skills across multiple tech stacks and developed a deep passion for software engineering.
 
 ## 💻 Software Engineer: 
 Experienced in designing, building, and maintaining software applications. Always eager to take on new challenges and learn new technologies.
