@@ -1,6 +1,6 @@
 🔍 About Me:
 
-## 🎓 Coding Knowlegde:
+## 🎓 What I am doing:
 Currently Studing at Coding Dojo bootcamp, where I am honing my skills across multiple tech stacks and developed a deep passion for software engineering.
 
 ## 💻 Software Engineer: 
