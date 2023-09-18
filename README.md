@@ -12,7 +12,7 @@ I thrive in both solo and team-based projects, valuing open communication and it
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=austintrivettlee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=austintrivettlee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:groupPost:8571393-7109367856911257600?compact=1" height="undefined" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 ---
 [![](https://visitcount.itsvg.in/api?id=austintrivettlee&icon=2&color=9)](https://visitcount.itsvg.in)
 
